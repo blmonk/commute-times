@@ -5,6 +5,7 @@ import time
 from datetime import datetime as dt
 import csv
 
+
 work = "advanced photon source, IL"
 #half1 = "distance between nashville, tn, and "
 locations = [
